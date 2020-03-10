@@ -2,7 +2,6 @@
 ### Java template
 # Compiled class file
 *.class
-
 .idea
 *.iml
 
@@ -27,13 +26,47 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-.idea/compiler.xml
-.idea/encodings.xml
-.idea/misc.xml
-.idea/workspace.xml
-my-shop-api/
-my-shop-basic/
-my-shop-service/
-my-shop-web/
-my-shop.iml
-pom.xml
+.gitignore
+my-shop-api/itqf-cart-api/src/main/resources/
+my-shop-api/itqf-cart-api/src/test/
+my-shop-api/itqf-product-api/src/main/resources/
+my-shop-api/itqf-product-api/src/test/
+my-shop-api/itqf-product-type-api/src/main/resources/
+my-shop-api/itqf-product-type-api/src/test/
+my-shop-api/itqf-resources-api/src/main/resources/
+my-shop-api/itqf-resources-api/src/test/
+my-shop-api/itqf-search-api/src/main/resources/
+my-shop-api/itqf-search-api/src/test/
+my-shop-api/itqf-user-api/src/main/resources/
+my-shop-api/itqf-user-api/src/test/
+my-shop-basic/itqf-commons/src/main/resources/
+my-shop-basic/itqf-commons/src/test/
+my-shop-basic/itqf-mapper/src/main/resources/
+my-shop-basic/itqf-mapper/src/test/
+my-shop-basic/itqt-entity/src/test/
+my-shop-service/itqf-cart-service/src/main/resources/static/
+my-shop-service/itqf-cart-service/src/main/resources/templates/
+my-shop-service/itqf-email-service/src/main/resources/static/
+my-shop-service/itqf-email-service/src/main/resources/templates/
+my-shop-service/itqf-index-service/src/main/resources/static/
+my-shop-service/itqf-index-service/src/main/resources/templates/
+my-shop-service/itqf-product-service/src/main/resources/static/
+my-shop-service/itqf-product-service/src/main/resources/templates/
+my-shop-service/itqf-search-service/src/main/resources/static/
+my-shop-service/itqf-search-service/src/main/resources/templates/
+my-shop-service/itqf-sms-service/src/main/resources/static/
+my-shop-service/itqf-sms-service/src/main/resources/templates/
+my-shop-service/itqf-staticsource-service/src/main/resources/static/
+my-shop-service/itqf-staticsource-service/src/main/resources/templates/
+my-shop-service/itqf-user-service/src/main/resources/static/
+my-shop-service/itqf-user-service/src/main/resources/templates/
+my-shop-web/itqf-cart/src/main/resources/static/
+my-shop-web/itqf-cart/src/main/resources/templates/
+my-shop-web/itqf-index/src/main/resources/static/
+my-shop-web/itqf-index/src/main/resources/templates/
+my-shop-web/itqf-product/src/main/resources/static/
+my-shop-web/itqf-product/src/main/resources/templates/
+my-shop-web/itqf-search/src/main/resources/static/
+my-shop-web/itqf-search/src/main/resources/templates/
+my-shop-web/itqf-sso/src/main/resources/static/
+my-shop-web/itqf-sso/src/main/resources/templates/

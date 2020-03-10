@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe1bd6bd-9604-4eb7-bf14-d2042342ded0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-api/itqf-cart-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-api/itqf-cart-api/src/main/java/haha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-api/itqf-product-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-api/itqf-product-api/src/main/java/haha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-api/itqf-product-type-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-api/itqf-product-type-api/src/main/java/haha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-api/itqf-resources-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-api/itqf-resources-api/src/main/java/haha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-api/itqf-search-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-api/itqf-search-api/src/main/java/haha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-api/itqf-user-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-api/itqf-user-api/src/main/java/haha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-basic/itqf-commons/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-basic/itqf-commons/src/main/java/haha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-basic/itqf-mapper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-basic/itqf-mapper/src/main/java/haha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-basic/itqt-entity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-basic/itqt-entity/src/main/java/haha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-basic/itqt-entity/src/main/resources/ge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-basic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-cart-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-cart-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-cart-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-cart-service/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-cart-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-cart-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-cart-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-cart-service/src/main/java/com/itqf/ItqfCartServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-cart-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-cart-service/src/test/java/com/itqf/ItqfCartServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-email-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-email-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-email-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-email-service/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-email-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-email-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-email-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-email-service/src/main/java/com/itqf/ItqfEmailServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-email-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-email-service/src/test/java/com/itqf/ItqfEmailServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-index-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-index-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-index-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-index-service/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-index-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-index-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-index-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-index-service/src/main/java/com/itqf/ItqfIndexServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-index-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-index-service/src/test/java/com/itqf/ItqfIndexServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-product-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-product-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-product-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-product-service/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-product-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-product-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-product-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-product-service/src/main/java/com/itqf/ItqfProductServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-product-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-product-service/src/test/java/com/itqf/ItqfProductServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-search-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-search-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-search-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-search-service/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-search-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-search-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-search-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-search-service/src/main/java/com/itqf/ItqfSearchServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-search-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-search-service/src/test/java/com/itqf/ItqfSearchServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-sms-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-sms-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-sms-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-sms-service/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-sms-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-sms-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-sms-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-sms-service/src/main/java/com/itqf/ItqfSmsServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-sms-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-sms-service/src/test/java/com/itqf/ItqfSmsServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-staticsource-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-staticsource-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-staticsource-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-staticsource-service/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-staticsource-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-staticsource-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-staticsource-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-staticsource-service/src/main/java/com/itqf/ItqfStaticsourceServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-staticsource-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-staticsource-service/src/test/java/com/itqf/ItqfStaticsourceServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-user-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-user-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-user-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-user-service/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-user-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-user-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-user-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-user-service/src/main/java/com/itqf/ItqfUserServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-user-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/itqf-user-service/src/test/java/com/itqf/ItqfUserServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-cart/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-cart/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-cart/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-cart/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-cart/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-cart/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-cart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-cart/src/main/java/com/itqf/ItqfCartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-cart/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-cart/src/test/java/com/itqf/ItqfCartApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-index/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-index/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-index/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-index/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-index/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-index/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-index/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-index/src/main/java/com/itqf/ItqfIndexApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-index/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-index/src/test/java/com/itqf/ItqfIndexApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-product/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-product/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-product/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-product/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-product/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-product/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-product/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-product/src/main/java/com/itqf/ItqfProductApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-product/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-product/src/test/java/com/itqf/ItqfProductApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-search/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-search/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-search/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-search/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-search/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-search/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-search/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-search/src/main/java/com/itqf/ItqfSearchApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-search/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-search/src/test/java/com/itqf/ItqfSearchApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-sso/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-sso/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-sso/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-sso/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-sso/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-sso/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-sso/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-sso/src/main/java/com/itqf/ItqfSsoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-sso/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/itqf-sso/src/test/java/com/itqf/ItqfSsoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-shop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-api/itqf-cart-api/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-service/itqf-sms-service/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-web/itqf-cart/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-api/itqf-product-type-api/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-basic/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-service/itqf-index-service/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-service/itqf-search-service/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-service/itqf-staticsource-service/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-web/itqf-sso/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-api/itqf-resources-api/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-api/itqf-search-api/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-basic/itqf-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-api/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-service/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-web/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-service/itqf-cart-service/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-web/itqf-search/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-service/itqf-product-service/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-basic/itqt-entity/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-basic/itqf-commons/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-web/itqf-product/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-api/itqf-user-api/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-service/itqf-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-api/itqf-product-api/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-web/itqf-index/target/" />
+    <ignored path="$PROJECT_DIR$/my-shop-service/itqf-email-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository\maven" />
+        <option name="mavenHome" value="D:/maven/maven" />
+        <option name="userSettingsFile" value="D:\maven\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="393" />
+    <option name="y" value="109" />
+    <option name="width" value="1332" />
+    <option name="height" value="912" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore&#10;D:/idea_work/zzz/my-shop/pom.xml" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_work\zzz\my-shop" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ItqfSmsServiceApplication">
+    <configuration name="ItqfCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itqf-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqf.ItqfCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItqfCartServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itqf-cart-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqf.ItqfCartServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItqfEmailServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itqf-email-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqf.ItqfEmailServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItqfIndexApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itqf-index" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqf.ItqfIndexApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItqfIndexServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itqf-index-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqf.ItqfIndexServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItqfProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itqf-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqf.ItqfProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItqfProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itqf-product-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqf.ItqfProductServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItqfSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itqf-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqf.ItqfSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItqfSearchServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itqf-search-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqf.ItqfSearchServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItqfSmsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itqf-sms-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqf.ItqfSmsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItqfSsoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itqf-sso" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqf.ItqfSsoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItqfStaticsourceServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itqf-staticsource-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqf.ItqfStaticsourceServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItqfUserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itqf-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqf.ItqfUserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe1bd6bd-9604-4eb7-bf14-d2042342ded0" name="Default Changelist" comment="" />
+      <created>1583852355732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583852355732</updated>
+      <workItem from="1583852358364" duration="799000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1583852617918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583852617918</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1583852777054</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583852777054</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="799000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="262" y="73" width="888" height="608" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939759" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" weight="0.32891566" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my-shop-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web/itqf-cart/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web/itqf-cart/src/main/java/com/itqf/ItqfCartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
