@@ -7,30 +7,30 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="itqf-search-service" />
-        <module name="itqt-entity" />
-        <module name="itqf-product" />
-        <module name="itqf-product-service" />
+        <module name="my-shop-web" />
+        <module name="itqf-sso" />
+        <module name="itqf-user-service" />
         <module name="itqf-mapper" />
         <module name="itqf-user-api" />
-        <module name="itqf-staticsource-service" />
         <module name="itqf-resources-api" />
         <module name="itqf-index-service" />
-        <module name="itqf-product-api" />
+        <module name="itqf-staticsource-service" />
         <module name="my-shop-service" />
+        <module name="itqf-email-service" />
         <module name="itqf-product-type-api" />
         <module name="itqf-index" />
         <module name="itqf-search" />
-        <module name="my-shop" />
+        <module name="itqf-product-service" />
         <module name="itqf-cart-service" />
         <module name="itqf-search-api" />
         <module name="itqf-cart-api" />
         <module name="itqf-sms-service" />
-        <module name="my-shop-web" />
-        <module name="itqf-user-service" />
-        <module name="itqf-email-service" />
+        <module name="as-shop" />
+        <module name="my-shop" />
+        <module name="itqf-product" />
         <module name="itqf-commons" />
         <module name="itqf-cart" />
-        <module name="itqf-sso" />
+        <module name="itqf-product-api" />
       </profile>
     </annotationProcessing>
   </component>

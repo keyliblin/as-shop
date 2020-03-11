@@ -25,7 +25,7 @@
         </jdbcConnection>
 
         <!--生成的实体类 包路径 -->
-        <javaModelGenerator targetPackage="com.itqf.bean" targetProject="src/main/java">
+        <javaModelGenerator targetPackage="com.itqf.entity" targetProject="src/main/java">
             <property name="enableSubPackages" value="ture"/>
             <property name="trimStrings" value="true"/>
         </javaModelGenerator>
